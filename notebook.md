@@ -6,7 +6,7 @@
 * :+1: Finished Poll on Zoom
 * :+1: Installed Virtual Box with Ubuntu on Windod 10 Home
 * :+1: Installed snap (package management system built by Canonica) https://snapcraft.io/docs/installing-snap-on-ubuntu
-* :o2: reviewed python
+* :+1: Installed Python3
 
 # Week Fri 07/31/20 - 13/06/20
 

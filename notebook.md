@@ -1,6 +1,7 @@
 
-# Week Fri 08/31/20 - 09/06/20
+# Week Fri 01/13/20 - 01/19/20
 
+* :+1: Attended lecture
 * :+1: Attended lecture
 * :o2: reviewed python
 

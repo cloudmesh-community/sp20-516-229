@@ -2,6 +2,18 @@
 
 * :+1: Attended lecture on 01-21-2019
 * :+1: Installed Ubuntu on Laptop and now able to create mulitpass 
+* :+1: Importment points from Definition-Cloud-Computing
+       Service Model 
+       Software as a Service SaaS
+       Platform as a Service PaaS
+       Infrastructure as a service Iaas 
+       
+       Deployment Model
+       Public Cloud
+       Private Cloud
+       Community Cloud
+       Hybrid Cloud
+       
 
 
 

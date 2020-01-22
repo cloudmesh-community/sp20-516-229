@@ -1,3 +1,11 @@
+# Week Fri 01/20/20 - 01/26/20
+
+* :+1: Attended lecture on 01-21-2019
+* :+1: Installed Ubuntu on Laptop and now able to create mulitpass 
+
+
+
+
 
 # Week Fri 01/13/20 - 01/19/20
 

@@ -1,3 +1,6 @@
+# Notebook Prateek Shaw sp20-516-229
+
+
 # Week Fri 01/20/20 - 01/26/20
 
 * :+1: Attended lecture on 01-21-2019

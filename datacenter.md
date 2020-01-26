@@ -12,7 +12,12 @@ Last digit is 9 , 9%6 = 3
 
 Thermal energy is a kind of energy that is related to the temperature of matters and also called heat energy. The energy which comes from heated matters is called thermal energy.
 
-Data centers are producing a lot of heat from IT equipment and the cooling system is the second-largest consumer in a DC after the Information Technology (IT) equipment and deals with maintaining the proper temperature for servers’ safe operation. The cooling system is high energy consumption in data centers.
+Data centers are producing a lot of heat from IT equipment and the cooling system is the second-largest consumer in a data center after the Information Technology (IT) equipments.Geothermal energy can be used for heating and cooling purposes for data centers.
+
+Below are some of examples
+1-American College Testing (Iowa)  
+2-Prairie Bunkers, LLC (Nebraska)
+3-Verne Global (Iceland)  
 
 
 # E.Datacenter.5:
@@ -55,3 +60,6 @@ https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/
 
 https://www.datacenterknowledge.com/archives/2008/04/02/data-center-used-to-heat-swimming-pool
 
+https://www.datacenterknowledge.com/geothermal-data-centers
+
+https://www.irena.org/geothermal

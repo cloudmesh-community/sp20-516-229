@@ -22,6 +22,9 @@
 :heavy_check_mark: Installed Pycharm  
 :heavy_check_mark: Installed GIT   
 :heavy_check_mark: Clone GIT Project  
+:heavy_check_mark: installed python environment command sudo apt-get install python3-venv 
+:heavy_check_mark: Created paython environment python3 -m venv ENV3
+
 
 
 

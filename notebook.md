@@ -5,7 +5,7 @@
 
 :heavy_check_mark: Attended lecture on 01-21-2019  
 :heavy_check_mark: Installed Ubuntu on Laptop and now able to create mulitpass  
-:heavy_check_mark: Importment points from Definition-Cloud-Computing  
+:heavy_check_mark: Important points from Definition-Cloud-Computing video  
 
        Service Model 
        Software as a Service SaaS
@@ -19,7 +19,9 @@
        Hybrid Cloud
        
 
-
+:heavy_check_mark: Installed Pycharm  
+:heavy_check_mark: Installed GIT   
+:heavy_check_mark: Clone GIT Project  
 
 
 

@@ -30,12 +30,18 @@ http://www.oracle.com/us/products/applications/green/innovation-data-center-2394
 E.Datacenter.8:
 
 Date: August 08 2016
+
 Datacenter: Delta
+
 Category: Power Outrage
+
 Description: lost power at its operations center in Atlanta 
+
 Duration: Several hours
+
 Impact: large
-Cost impact > $150 million
+
+Cost impact: > $150 million
 
 https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/
 

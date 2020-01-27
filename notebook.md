@@ -23,7 +23,7 @@
 :heavy_check_mark: Installed GIT   
 :heavy_check_mark: Clone GIT Project  
 :heavy_check_mark: Installed python environment command sudo apt-get install python3-venv  
-:heavy_check_mark: Created paython environment python3 -m venv ENV3  
+:heavy_check_mark: Created python environment python3 -m venv ENV3  
 :heavy_check_mark: Added screenshot of mulitpass list command    
 :heavy_check_mark: Created dictionary , function and class. Imported os and pprint module  
 

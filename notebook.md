@@ -1,7 +1,7 @@
 # Notebook Prateek Shaw sp20-516-229
 
 
-# Week Fri 01/20/20 - 01/26/20
+# Week Mon 01/20/20 - 01/26/20
 
 :heavy_check_mark: Attended lecture on 01-21-2019  
 :heavy_check_mark: Installed Ubuntu on Laptop and now able to create mulitpass  

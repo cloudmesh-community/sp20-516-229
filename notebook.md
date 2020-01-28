@@ -1,5 +1,8 @@
 # Notebook Prateek Shaw sp20-516-229
 
+# Week Mon 01/27/20 - 02/02/20
+
+:heavy_check_mark:Created and Understood Provider class using cloudmess function
 
 # Week Mon 01/20/20 - 01/26/20
 

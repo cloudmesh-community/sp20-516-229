@@ -1,10 +1,10 @@
 # Notebook Prateek Shaw sp20-516-229
 
-# Week Mon 01/27/20 - 02/02/20
+## Week Mon 01/27/20 - 02/02/20
 
 :heavy_check_mark:Created and Understood Provider class using cloudmess function
 
-# Week Mon 01/20/20 - 01/26/20
+## Week Mon 01/20/20 - 01/26/20
 
 :heavy_check_mark: Attended lecture on 01-21-2019  
 :heavy_check_mark: Installed Ubuntu on Laptop and now able to create mulitpass  
@@ -31,7 +31,7 @@
 :heavy_check_mark: Created dictionary , function and class. Imported os and pprint module  
 
 
-# Week Fri 01/13/20 - 01/19/20
+## Week Fri 01/13/20 - 01/19/20
 
 * :+1: Attended lecture
 * :+1: Finished Bio

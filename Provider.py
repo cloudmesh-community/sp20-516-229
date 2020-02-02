@@ -43,6 +43,6 @@ class Provider:
 
 if __name__ == "__main__":  # Python will start running code from here.
     p = Provider()  # creating instance of Provider class
-    # p.list()  # Calling list function.
-    values = {'os_name' : p.print_os(),'os_ram': p.ram_sapce(), 'os_hdd': p.disk_space()}
-    pprint.pprint(values,width=1)
+    p.list()  # Calling list function.
+    #values = {'os_name' : p.print_os(),'os_ram': p.ram_sapce(), 'os_hdd': p.disk_space()}
+    #pprint.pprint(values,width=1)

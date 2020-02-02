@@ -56,7 +56,7 @@ Cost impact: > $150 million
 
 
 # Citation 
-(2016-cost-of-data-center-outages)[https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf]
+[2016-cost-of-data-center-outages](https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf)
 http://www.oracle.com/us/products/applications/green/innovation-data-center-2394061.pdf  
 https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/  
 https://www.datacenterknowledge.com/archives/2008/04/02/data-center-used-to-heat-swimming-pool  

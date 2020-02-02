@@ -2,7 +2,10 @@
 
 ## Week Mon 01/27/20 - 02/02/20
 
-:heavy_check_mark:Created and Understood Provider class using cloudmess function
+:heavy_check_mark:Created and Understood Provider class using cloudmess function  
+:heavy_check_mark:deactive command to deavtive current virtual box  
+
+
 
 ## Week Mon 01/20/20 - 01/26/20
 

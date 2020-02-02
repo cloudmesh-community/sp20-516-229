@@ -4,6 +4,10 @@
 
 :heavy_check_mark:Created and Understood Provider class using cloudmess function  
 :heavy_check_mark:deactive command to deavtive current virtual box  
+:heavy_check_mark:Finished cloudmesh assignment  
+:heavy_check_mark:Learned cms command and also create new command name as prateek  
+:heavy_check_mark:Learned flat and doc dict commands  
+:heavy_check_mark:Learned pip freeze and venv
 
 
 

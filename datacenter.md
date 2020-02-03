@@ -15,7 +15,7 @@
 
 Last digit is 9 , 9%6 = 3
 
-### Renewal Energy : Thermal 
+### Renewal Energy - Thermal 
 
 Thermal energy is a kind of energy that is related to the temperature of matters and also called heat energy. The energy which comes from heated matters is called thermal energy.
 

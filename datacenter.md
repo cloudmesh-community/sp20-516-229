@@ -1,6 +1,10 @@
 # Datacenter :o2: Lastname, Firstname, HID
 
-:o2: please learn markdown, special training required
+* :o2: please learn markdown, attending eductaional section mandatory
+* :o2: no colon in sections, 
+* :o2: no spaces befor :
+* :o2: lists were not done correctly
+
 
 ## E.Datacenter.3: Your own Carbon footprint
 

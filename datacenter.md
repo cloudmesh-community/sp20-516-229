@@ -23,7 +23,7 @@ Data centers are producing a lot of heat from IT equipment and the cooling syste
 
 Below are some of examples  
 
-* (American College Testing(Iowa))[https://www.datacenterknowledge.com/archives/2009/08/13/geothermal-data-center-is-leed-platinum/]    
+* [American College Testing(Iowa)](https://www.datacenterknowledge.com/archives/2009/08/13/geothermal-data-center-is-leed-platinum)    
 * Prairie Bunkers, LLC(Nebraska)  
 * Verne Global(Iceland)    
 

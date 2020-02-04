@@ -63,10 +63,10 @@ Cost impact- > $150 million
 
 ## Citation 
 
-[Ponemon Institute 2016-cost-of-data-center-outages](https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf)  
-[Oracle Data Center](http://www.oracle.com/us/products/applications/green/innovation-data-center-2394061.pdf)  
-[Delta data center outage cost](https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/)   
-[data-center-used-to-heat-swimming-pool](https://www.datacenterknowledge.com/archives/2008/04/02/data-center-used-to-heat-swimming-pool)    
-[geothermal-data-centers ](https://www.datacenterknowledge.com/geothermal-data-centers)    
-[geothermal](https://www.irena.org/geothermal)    
-[Oracle operations](https://www.oracle.com/corporate/citizenship/sustainability/operations.html)    
+1-[Ponemon Institute 2016-cost-of-data-center-outages](https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf)  
+2-[Oracle Data Center](http://www.oracle.com/us/products/applications/green/innovation-data-center-2394061.pdf)  
+3-[Delta data center outage cost](https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/)   
+4-[Data-center-used-to-heat-swimming-pool](https://www.datacenterknowledge.com/archives/2008/04/02/data-center-used-to-heat-swimming-pool)    
+5-[Geothermal-data-centers ](https://www.datacenterknowledge.com/geothermal-data-centers)    
+6-[Geothermal](https://www.irena.org/geothermal)    
+7-[Oracle operations](https://www.oracle.com/corporate/citizenship/sustainability/operations.html)    

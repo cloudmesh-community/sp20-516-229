@@ -1,5 +1,10 @@
 # Notebook Prateek Shaw sp20-516-229
 
+## Week Mon 02/02/20 - 02/09/20
+
+:heavy_check_mark:Attended Zoom Session on 02/03/2020
+:heavy_check_mark:Investing Oracle Clould AI
+
 ## Week Mon 01/27/20 - 02/02/20
 
 :heavy_check_mark:Created and Understood Provider class using cloudmess function  

@@ -39,7 +39,7 @@ Oracle- The innovations center on the use of waste heat from the IT equipment fo
 The biggest risk of the data center is power outages. According to the Ponemon Institute LLC study(2016), the average cost of a data center outage has steadily increased from $505,502 in 2010 to $740,357.
 
 Below is Delta airline power outages details.
-
+| Source              | Percent |
 | ------------------- | ------- | 
 | Date  | August 08 2016 2:30 AM ET  |
 | Datacenter | Delta |

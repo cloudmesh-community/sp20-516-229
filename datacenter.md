@@ -40,21 +40,6 @@ The biggest risk of the data center is power outages. According to the Ponemon I
 
 Below is Delta airline power outages details.
 
-Date- August 08 2016 2:30 AM ET
-
-Datacenter- Delta
-
-Category- Power Outrage
-
-Description- lost power at its operations center in Atlanta 
-
-Duration- 2 days
-
-Impact- large
-
-Cost impact- > $150 million
-
- Source              | Percent |
 | ------------------- | ------- | 
 | Date  | August 08 2016 2:30 AM ET  |
 | Datacenter | Delta |

@@ -26,12 +26,7 @@ Below are some of examples
 * [American College Testing(Iowa)](https://www.datacenterknowledge.com/archives/2009/08/13/geothermal-data-center-is-leed-platinum)    
 * [Prairie Bunkers, LLC(Nebraska)](https://www.datacenterknowledge.com/archives/2009/08/25/prairie-bunkers-pursues-geothermal-cooling/)  
 * [Verne Global(Iceland)](https://www.datacenterknowledge.com/archives/2010/01/18/iceland-gets-major-data-center-project/)    
-
-:o2: no links provided
-
-
 ## E.Datacenter.5:
-
 
 Below are examples of companies that renew waste heat.
 

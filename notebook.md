@@ -41,22 +41,22 @@
 1. Hybrid Cloud
 
 
-:heavy_check_mark: Installed Pycharm  
-:heavy_check_mark: Installed GIT   
-:heavy_check_mark: Clone GIT Project  
-:heavy_check_mark: Installed python environment command sudo apt-get install python3-venv  
-:heavy_check_mark: Created python environment python3 -m venv ENV3  
-:heavy_check_mark: Added screenshot of mulitpass list command    
-:heavy_check_mark: Created dictionary , function and class. Imported os and pprint module  
+1. Installed Pycharm  
+1. Installed GIT   
+1. Clone GIT Project  
+1. Installed python environment command sudo apt-get install python3-venv  
+1. Created python environment python3 -m venv ENV3  
+1. Added screenshot of mulitpass list command    
+1. Created dictionary , function and class. Imported os and pprint module  
 
 
 ## Week Fri 01/13/20 - 01/19/20
 
-* :+1: Attended lecture
-* :+1: Finished Bio
-* :+1: Finished Poll on Zoom
-* :+1: Installed Virtual Box with Ubuntu on Windod 10 Home
-* :+1: Installed snap (package management system built by Canonica) https://snapcraft.io/docs/installing-snap-on-ubuntu
-* :+1: Installed Python3
-* :+1: Created a Chameleon account
+1. Attended lecture
+1. Finished Bio
+1. Finished Poll on Zoom
+1. Installed Virtual Box with Ubuntu on Windod 10 Home
+1. Installed snap (package management system built by Canonica) https://snapcraft.io/docs/installing-snap-on-ubuntu
+1. Installed Python3
+1. Created a Chameleon account
 

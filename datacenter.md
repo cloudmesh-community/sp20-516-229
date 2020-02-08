@@ -1,19 +1,11 @@
 # Datacenter: Prateek Shaw sp20-516-229
 
-* :o2: please learn markdown, attending eductaional section mandatory
-* :o2: no colon in sections, 
-* :o2: no spaces befor :
-* :o2: lists were not done correctly
-
-
 ## E.Datacenter.3: Your own Carbon footprint
 
 
 19 tons CO2eq/year  Which is 57 % Better than Average
 
 ## E.Datacenter.4
-
-Last digit is 9, 9%6 = 3
 
 ### Renewal Energy - Thermal 
 

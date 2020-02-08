@@ -7,7 +7,10 @@
 1. We should not have a colon (:) end of the header in markdown
 1. If you needed number then only use 1. , it will automatically increment.
 1. emacs, pandoc.
-1. cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not
+1. cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not, install cms again
+1. Checked out sp20-516-229 repository inside cm folder
+1. Installed latest version of pythom 3.8.1
+ 
 
 
 ## Week Mon 01/27/20 - 02/02/20

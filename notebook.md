@@ -3,9 +3,13 @@
 ## Week Mon 02/02/20 - 02/09/20
 
 :heavy_check_mark:Attended Zoom Session on 02/03/2020
+
 :heavy_check_mark:Investing Oracle Clould AI
+
 :heavy_check_mark:We should not have a colon (:) end of the header in markdown
+
 :heavy_check_mark:If you needed number then only use 1. , it will automatically increment.
+
 
 
 

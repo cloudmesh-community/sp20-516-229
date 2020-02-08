@@ -12,37 +12,34 @@
 1. Installed latest version of pythom 3.8.1
 1. Installed sudo pip install cyberaide-bookmanager
 
- 
-
-
 ## Week Mon 01/27/20 - 02/02/20
 
-:heavy_check_mark:Created and Understood Provider class using cloudmess function  
-:heavy_check_mark:deactive command to deavtive current virtual box  
-:heavy_check_mark:Finished cloudmesh assignment  
-:heavy_check_mark:Learned cms command and also created new command name as prateek  
-:heavy_check_mark:Learned flat and doc dict commands  
-:heavy_check_mark:Learned pip freeze and venv
+1. Created and Understood Provider class using cloudmess function  
+1. deactive command to deavtive current virtual box  
+1. Finished cloudmesh assignment  
+1. Learned cms command and also created new command name as prateek  
+1. Learned flat and doc dict commands  
+1. Learned pip freeze and venv
 
 
 
 ## Week Mon 01/20/20 - 01/26/20
 
-:heavy_check_mark: Attended lecture on 01-21-2019  
-:heavy_check_mark: Installed Ubuntu on Laptop and now able to create mulitpass  
-:heavy_check_mark: Important points from Definition-Cloud-Computing video  
+1. Attended lecture on 01-21-2019  
+1. Installed Ubuntu on Laptop and now able to create mulitpass  
+1. Important points from Definition-Cloud-Computing video  
 
-       Service Model 
-       Software as a Service SaaS
-       Platform as a Service PaaS
-       Infrastructure as a service Iaas 
-       
-       Deployment Model
-       Public Cloud
-       Private Cloud
-       Community Cloud
-       Hybrid Cloud
-       
+### Service Model 
+1. Software as a Service SaaS
+1. Platform as a Service PaaS1. 
+1. Infrastructure as a service Iaas 
+
+### Deployment Model
+1. Public Cloud
+1. Private Cloud
+1. Community Cloud
+1. Hybrid Cloud
+
 
 :heavy_check_mark: Installed Pycharm  
 :heavy_check_mark: Installed GIT   

@@ -21,34 +21,31 @@
 1. Learned flat and doc dict commands  
 1. Learned pip freeze and venv
 
-
-
 ## Week Mon 01/20/20 - 01/26/20
 
 1. Attended lecture on 01-21-2019  
 1. Installed Ubuntu on Laptop and now able to create mulitpass  
 1. Important points from Definition-Cloud-Computing video  
-
-### Service Model 
-1. Software as a Service SaaS
-1. Platform as a Service PaaS1. 
-1. Infrastructure as a service Iaas 
-
-### Deployment Model
-1. Public Cloud
-1. Private Cloud
-1. Community Cloud
-1. Hybrid Cloud
-
-
 1. Installed Pycharm  
 1. Installed GIT   
 1. Clone GIT Project  
 1. Installed python environment command sudo apt-get install python3-venv  
 1. Created python environment python3 -m venv ENV3  
 1. Added screenshot of mulitpass list command    
-1. Created dictionary , function and class. Imported os and pprint module  
+1. Created dictionary , function and class. Imported os and pprint module 
 
+### Service Model 
+
+1. Software as a Service SaaS
+1. Platform as a Service PaaS1. 
+1. Infrastructure as a service Iaas 
+
+### Deployment Model
+
+1. Public Cloud
+1. Private Cloud
+1. Community Cloud
+1. Hybrid Cloud
 
 ## Week Fri 01/13/20 - 01/19/20
 

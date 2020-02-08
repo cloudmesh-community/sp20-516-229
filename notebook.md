@@ -10,7 +10,9 @@
 
 :heavy_check_mark:If you needed number then only use 1. , it will automatically increment.
 
+:heavy_check_mark:emacs, pandoc.
 
+:heavy_check_mark:cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not
 
 
 ## Week Mon 01/27/20 - 02/02/20

@@ -10,6 +10,8 @@
 1. cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not, install cms again
 1. Checked out sp20-516-229 repository inside cm folder
 1. Installed latest version of pythom 3.8.1
+1. Installed sudo pip install cyberaide-bookmanager
+
  
 
 

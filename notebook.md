@@ -2,17 +2,12 @@
 
 ## Week Mon 02/02/20 - 02/09/20
 
-:heavy_check_mark:Attended Zoom Session on 02/03/2020
-
-:heavy_check_mark:Investing Oracle Clould AI
-
-:heavy_check_mark:We should not have a colon (:) end of the header in markdown
-
-:heavy_check_mark:If you needed number then only use 1. , it will automatically increment.
-
-:heavy_check_mark:emacs, pandoc.
-
-:heavy_check_mark:cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not
+1. Attended Zoom Session on 02/03/2020
+2. Investing Oracle Clould AI
+3. We should not have a colon (:) end of the header in markdown
+4. If you needed number then only use 1. , it will automatically increment.
+5. emacs, pandoc.
+6. cloudmesh-oracle ,volumn management , biber to validate if .bib file is correct or not
 
 
 ## Week Mon 01/27/20 - 02/02/20

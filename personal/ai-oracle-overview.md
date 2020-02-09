@@ -10,4 +10,6 @@ In simple terms, cloud computing is renting instead of buying your IT. Rather th
 
 Oracle AI Services as shown @fig:sp20-516-229-oracle-cloud-ai
 
-![AI Services on Oracle](../images/sp20-516-229-oracle_ai_service.png){#fig:sp20-516-229-oracle-cloud-ai}
+:o: images must be in this folder soit will start not with .. but images I fix this now so you can introduces the images folder and place the image there.
+
+![AI Services on Oracle](images/sp20-516-229-oracle_ai_service.png){#fig:sp20-516-229-oracle-cloud-ai}

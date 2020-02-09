@@ -8,4 +8,6 @@ In simple terms, cloud computing is renting instead of buying your IT. Rather th
 
 ## AI Services on Oracle Cloud
 
+Oracle AI Services as shown @fig:sp20-516-229-oracle-cloud-ai
+
 ![AI Services on Oracle](../images/sp20-516-229-oracle_ai_service.png){#fig:sp20-516-229-oracle-cloud-ai}

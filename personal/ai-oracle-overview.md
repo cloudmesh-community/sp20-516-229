@@ -16,3 +16,9 @@ Oracle AI Services as shown @fig:sp20-516-229-oracle-cloud-ai
 :o: images must be in this folder soit will start not with .. but images I fix this now so you can introduces the images folder and place the image there.
 
 ![AI Services on Oracle](images/sp20-516-229-oracle_ai_service.png){#fig:sp20-516-229-oracle-cloud-ai}
+
+### Oracle AI Applications
+
+Oracle offer in-build AI support in its Cloud based enterprise application.Below are list of application which support AI.
+
+#### AI Apps for Financials

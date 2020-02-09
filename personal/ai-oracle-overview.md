@@ -4,7 +4,7 @@
 
 Oracle Cloud is a cloud computing service offered by Oracle Corporation providing servers, storage, network, applications and services through a global network of Oracle Corporation managed data centers. The company allows these services to be provisioned on demand over the Internet. 
 
-In simple terms, cloud computing is renting instead of buying your IT. :o2; you should not define what cloudcomputing is focus what oracle offers
+In simple terms, cloud computing is renting instead of buying your IT. :o2: you should not define what cloudcomputing is focus what oracle offers
 
 
 Rather than investing heavily in databases, software, and equipment, companies are opting to access their compute power via the internet and pay for it as they use it.

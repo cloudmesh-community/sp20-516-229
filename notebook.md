@@ -1,6 +1,15 @@
 # Notebook Prateek Shaw sp20-516-229
 
-## Week Mon 02/02/20 - 02/09/20
+## Week Mon 02/10/20 - 02/17/20
+
+1. Attended zoom session on 02/03/2020
+1. Selected project.
+1. Added multipass info function and test case.
+1. Installed pytest in EVN3
+1. Reading OpenStack with Chameleon Cloud
+
+
+## Week Mon 02/03/20 - 02/09/20
 
 1. Attended Zoom Session on 02/03/2020
 1. Investing Oracle Clould AI

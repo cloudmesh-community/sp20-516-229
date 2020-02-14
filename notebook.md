@@ -8,7 +8,7 @@
 1. Installed pytest in EVN3
 1. Reading OpenStack with Chameleon Cloud
 1. Watched sshkey gen video
-1. 
+1. Created VM in chameleoncloud 
 
 
 ## Week Mon 02/03/20 - 02/09/20

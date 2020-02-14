@@ -7,6 +7,8 @@
 1. Added multipass info function and test case.
 1. Installed pytest in EVN3
 1. Reading OpenStack with Chameleon Cloud
+1. Watched sshkey gen video
+1. 
 
 
 ## Week Mon 02/03/20 - 02/09/20

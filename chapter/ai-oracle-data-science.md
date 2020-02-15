@@ -30,7 +30,7 @@ Please remember 300$ is enough to evaluate Data Science service.
 
 ### Understadning Data Science Platform Concepts 
 
-The first step is to undestand basic conectps of this platform. Please see [@fig:sp20-516-229-oracle-data-science-concepts] for more information
+The first step is to undestand basic conectps of this platform.Please see [@fig:sp20-516-229-oracle-data-science-concepts] for more information
 
 ![Mind](images/3-oc-ds-concepts.png){#fig:ssp20-516-229-oracle-data-science-concepts}
 
@@ -52,14 +52,20 @@ This is place to store ,track , share and manage models.
 
 ### Configure Tenancy for Data Science
 
-Before accessing data scince service, we need to complete below configurations.
+Before accessing data scince service, we need to complete below configurations.Please see [@fig:ssp20-516-229-oracle-data-science-configuration] for more information.
+
+![Configuration Steps](images/4-oc-ds-config.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 #### Create User, Groups and assigning group to user
+
+![Configuration Steps](images/5-oc-ds-user-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 ##### User
 
 Go to Governance and Administraction , identity and click on User.
+
+![Users](images/6-ds-user.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 ##### Group
 
@@ -67,10 +73,13 @@ Go to Governance and Administraction , identity and click on Group.
 
 229-prateek-ds-group
 
+![Groups](images/oc-ds-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
 ##### Assign Group to User
 
 Go to Governance and Administraction , identity and click on User
 
+![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 #### Create Compartments to Own Network and DS resources
 
@@ -83,6 +92,10 @@ Compartments are the primary building blocks you use to organize your cloud reso
 
 Go to Governance and Administraction , identity and click on Compartment
 
+
+![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
+
 229-prateek-ds-compartment
 
 ##### Creations of VCN and Subnets
@@ -93,11 +106,18 @@ Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on Crea
 
 Select correct compartment.
 
+
+![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
+
 ###### Create Subnets in VCN
 
 Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on your VCN. Make sure you are in right compartment else you will not see VCN.
 
 Click on Create subnet
+
+
+![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 #### Create Policies to control Network and DS resources

@@ -167,5 +167,5 @@ Go to Data Science , Projects select Projects and Click on Create Notebook Sessi
 
 Because the notebook environment contains a comprehensive list of ML libraries, it can take several minutes to create a notebook session.
 
-![Notebook Sessions](images/oc-ds-projects-notebooks){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Notebook Sessions](images/oc-ds-projects-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 

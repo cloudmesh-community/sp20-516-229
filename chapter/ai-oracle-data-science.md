@@ -93,7 +93,7 @@ Compartments are the primary building blocks you use to organize your cloud reso
 Go to Governance and Administraction , identity and click on Compartment
 
 
-![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Compartments](images/oc-ds-compartments.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 229-prateek-ds-compartment
@@ -107,7 +107,7 @@ Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on Crea
 Select correct compartment.
 
 
-![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Oracle Virtual Cloud Network](images/oc-ds-vcn.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 ###### Create Subnets in VCN
@@ -117,7 +117,7 @@ Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on your
 Click on Create subnet
 
 
-![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![VCN Subnet](images/oc-ds-vcn-subnet.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 #### Create Policies to control Network and DS resources
@@ -130,7 +130,7 @@ Go to Governance and Administraction , identity and click on Policies
 
 allow group 229-prateek-ds-group to manage data-science-family in compartment 229-prateek-ds-compartment
 
-
+![VCN Subnet](images/oc-ds-policy-manage-access.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 ##### Create policy to give users access to network resources
@@ -141,7 +141,7 @@ Go to Governance and Administraction , identity and click on Policies
 
 allow group 229-prateek-ds-group to use virtual-network-family in compartment 229-prateek-ds-compartment
 
-
+![VCN Subnet](images/oc-ds-policy-network-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 ##### Create policy to give data science service access to network resources
 
@@ -152,16 +152,20 @@ Go to Governance and Administraction , identity and click on Policies
 
 allow service datascience to use virtual-network-family in compartment 229-prateek-ds-compartment
 
-
+![VCN Subnet](images/oc-ds-policy-datascience-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration}
 
 
 #### Create Projects
 
 Go to Data Science and Click on Projects
 
+![Projects](images/oc-ds-projects.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
 #### Creating Notebook Sessions 
 
 Go to Data Science , Projects select Projects and Click on Create Notebook Session
 
 Because the notebook environment contains a comprehensive list of ML libraries, it can take several minutes to create a notebook session.
+
+![Notebook Sessions](images/oc-ds-projects-notebooks){#fig:ssp20-516-229-oracle-data-science-configuration}
 

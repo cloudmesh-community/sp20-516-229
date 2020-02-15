@@ -8,3 +8,7 @@ Data Science is a platform for data scientists to build, train, and manage model
 * Model Explanation Tools
 * Notebook
 * Oracle Accelerated Data Science SDK
+
+## Creating Oracle Free Tier Account 
+
+Oracle 

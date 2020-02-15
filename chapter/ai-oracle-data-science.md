@@ -65,6 +65,8 @@ Go to Governance and Administraction , identity and click on User.
 
 Go to Governance and Administraction , identity and click on Group.
 
+229-prateek-ds-group
+
 ##### Assign Group to User
 
 Go to Governance and Administraction , identity and click on User
@@ -80,6 +82,8 @@ Compartments are the primary building blocks you use to organize your cloud reso
 ##### Compartment creation
 
 Go to Governance and Administraction , identity and click on Compartment
+
+229-prateek-ds-compartment
 
 ##### Creations of VCN and Subnets
 
@@ -98,10 +102,46 @@ Click on Create subnet
 
 #### Create Policies to control Network and DS resources
 
+There are three policies which needed to access data science resources
+
+##### Create policy to give users access to data science-related resources
+
+Go to Governance and Administraction , identity and click on Policies
+
+allow group 229-prateek-ds-group to manage data-science-family in compartment 229-prateek-ds-compartment
 
 
 
 
+##### Create policy to give users access to network resources
+
+Go to Governance and Administraction , identity and click on Policies
+
+229-prateek-ds-network-manage-access
+
+allow group 229-prateek-ds-group to use virtual-network-family in compartment 229-prateek-ds-compartment
 
 
+
+##### Create policy to give data science service access to network resources
+
+
+Go to Governance and Administraction , identity and click on Policies
+
+229-ds-manage-datascience
+
+allow service datascience to use virtual-network-family in compartment 229-prateek-ds-compartment
+
+
+
+
+#### Create Projects
+
+Go to Data Science and Click on Projects
+
+#### Creating Notebook Sessions 
+
+Go to Data Science , Projects select Projects and Click on Create Notebook Session
+
+Because the notebook environment contains a comprehensive list of ML libraries, it can take several minutes to create a notebook session.
 

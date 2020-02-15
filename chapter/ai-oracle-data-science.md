@@ -1,6 +1,6 @@
 # Chapter: Prateek Shaw sp20-516-229
 
-## Data Science : Oracle
+## Oracle Cloud Data Science Platform : Oracle
 
 Data Science is a platform for data scientists to build, train, and manage models on Oracle Cloud Infrastructure using Python and open source machine learning libraries.It also offers below Oracle ML product.
 
@@ -9,6 +9,21 @@ Data Science is a platform for data scientists to build, train, and manage model
 * Notebook
 * Oracle Accelerated Data Science SDK
 
-## Creating Oracle Free Tier Account 
+This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229] .
 
-Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which provides a number of Always Free services and a Free Trial with US$300 of free credit to use on all eligible Oracle Cloud Infrastructure services for up to 30 days. The Always Free services are available for an unlimited period of time. The Free Trial services may be used until your US$300 of free credits are consumed or the 30 days has expired, whichever comes first.
+Below are steps which we need to follow to evaluate Oracle AI Data Science offering
+
+### 1. Create Oracle Free Tier Account 
+
+Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which provides a number of Always Free services and a Free Trial with US$300 of free credit to use on all eligible Oracle Cloud Infrastructure services for up to 30 days. The Always Free services are available for an unlimited period of time. The Free Trial services may be used until your US$300 of free credits are consumed or the 30 days has expired, whichever comes first. Check @fig:sp20-516-229-oracle-free-tier-1 and @fig:sp20-516-229-oracle-free-tier-2 images for more details.
+
+Please remember 300$ is enough to evaluate Data Science service.
+
+![Oracle Cloud Free Tier](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
+
+![Mind](images/2-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-2}
+
+### 2. Setting up Data Science 
+
+After creating oracle free tier account, please login to Oracle Cloud.
+

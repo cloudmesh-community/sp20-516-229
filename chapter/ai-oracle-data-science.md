@@ -2,12 +2,17 @@
 
 ## Oracle Cloud Data Science Platform : Oracle
 
-Data Science is a platform for data scientists to build, train, and manage models on Oracle Cloud Infrastructure using Python and open source machine learning libraries.It also offers below Oracle ML product.
+Data Science is a platform for data scientists to build, train, and manage models on Oracle Cloud Infrastructure using Python and open source machine learning libraries.It also offers below Oracle ML product.Using this platform team can collaborate and developer machine learning models.
 
 * Oracle Labs Auto ML
 * Model Explanation Tools
 * Notebook
 * Oracle Accelerated Data Science SDK
+
+The main features of this platform are below.
+
+1. Infrastructure and Data science tools
+1. Collaborative and Project-Driven workspace
 
 This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229] .
 
@@ -23,7 +28,28 @@ Please remember 300$ is enough to evaluate Data Science service.
 
 ![Mind](images/2-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-2}
 
-### 2. Setting up Data Science 
+### 2. Understadning Data Science Platform Concepts 
 
-After creating oracle free tier account, please login to Oracle Cloud.
+The first step is to undestand basic conectps of this platform. Please see [@fig:sp20-516-229-oracle-data-science-concepts] for more information
+
+![Mind](images/3-oc-ds-concepts.png){#fig:ssp20-516-229-oracle-data-science-concepts}
+
+#### Project
+
+Project that holds all the data science assets which include notebook sessions and models.
+
+#### NoteBook Session
+
+Notebook sessions is same as jupyter notebook but this also includes oracle developed machine learning and data science packages.It comes with lab.
+
+#### Accelerated Data Science (ADS) SDK
+
+This is very important and enhanced feature which provides full life cycle support for machine learning application.
+
+#### Model
+
+This is place to store ,track , share and manage models.
+
+
+
 

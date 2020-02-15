@@ -1,6 +1,6 @@
 # Chapter: Prateek Shaw sp20-516-229
 
-## Data Science : Oracle
+## Oracle Cloud Data Science Platform : Oracle
 
 Data Science is a platform for data scientists to build, train, and manage models on Oracle Cloud Infrastructure using Python and open source machine learning libraries.It also offers below Oracle ML product.
 
@@ -8,6 +8,8 @@ Data Science is a platform for data scientists to build, train, and manage model
 * Model Explanation Tools
 * Notebook
 * Oracle Accelerated Data Science SDK
+
+This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229] .
 
 Below are steps which we need to follow to evaluate Oracle AI Data Science offering
 

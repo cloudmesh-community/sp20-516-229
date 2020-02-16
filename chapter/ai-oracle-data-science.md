@@ -24,7 +24,9 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
 
 Please remember 300$ is enough to evaluate Data Science service.
 
-![Oracle Cloud Free Tier](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
+:o2: all captions must have a bibtex to the figure or the article the included the figuer in it.
+
+![Oracle Cloud Free Tier [:o2:]](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
 
 ![Mind](images/2-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-2}
 

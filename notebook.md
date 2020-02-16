@@ -10,6 +10,9 @@
 1. Watched sshkey gen video
 1. Created VM in chameleoncloud 
 1. LibCloud : Python API to connect different cloud provider.[Appache LibCloud](http://libcloud.apache.org/)
+1. Virtual Directory
+1. Cloudmesh database is MangoDB.
+
 
 
 ## Week Mon 02/03/20 - 02/09/20
@@ -69,3 +72,10 @@
 1. Installed Python3
 1. Created a Chameleon account
 
+
+
+## Need to learn
+
+1. What is cm hpc
+1. YAML files 
+1. CMD5 , docopts 

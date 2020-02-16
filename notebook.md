@@ -9,6 +9,7 @@
 1. Reading OpenStack with Chameleon Cloud
 1. Watched sshkey gen video
 1. Created VM in chameleoncloud 
+1. LibCloud : Python API to connect different cloud provider.[Appache LibCloud](http://libcloud.apache.org/)
 
 
 ## Week Mon 02/03/20 - 02/09/20
@@ -64,7 +65,7 @@
 1. Finished Bio
 1. Finished Poll on Zoom
 1. Installed Virtual Box with Ubuntu on Windod 10 Home
-1. Installed snap (package management system built by Canonica) https://snapcraft.io/docs/installing-snap-on-ubuntu
+1. Installed snap (package management system built by Canonica).[Canonica](https://snapcraft.io/docs/installing-snap-on-ubuntu)
 1. Installed Python3
 1. Created a Chameleon account
 

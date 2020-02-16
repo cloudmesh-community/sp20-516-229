@@ -85,8 +85,7 @@ Go to Governance and Administraction , identity and click on User
 
 ##### What is compartments ?
 
-Compartments are the primary building blocks you use to organize your cloud resources. You use compartments to organize and isolate your resources to make it easier to manage and secure access to them.
-<https://docs.cloud.oracle.com/en-us/iaas/Content/GSG/Concepts/settinguptenancy.htm>
+Compartments are the primary building blocks you use to organize your cloud resources. You use compartments to organize and isolate your resources to make it easier to manage and secure access to them [@oracle-cloud-data-compartment-info-sp20-516-229].
 
 ##### Compartment creation
 

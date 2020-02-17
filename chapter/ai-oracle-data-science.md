@@ -14,7 +14,7 @@ The main features of this platform are below.
 1. Infrastructure and Data science tools
 1. Collaborative and Project-Driven workspace
 
-This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229] .
+This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229].
 
 Below are steps which we need to follow to evaluate Oracle AI Data Science offering
 
@@ -26,7 +26,7 @@ Please remember 300$ is enough to evaluate Data Science service.
 
 :o2: all captions must have a bibtex to the figure or the article the included the figuer in it.
 
-![Oracle Cloud Free Tier [:o2:]](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
+![Oracle Cloud Free Tier [@oracle-cloud-data-science-platform-sp20-516-229]](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
 
 ![Mind](images/2-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-2}
 

@@ -1,5 +1,12 @@
 # Notebook Prateek Shaw sp20-516-229
 
+## Week Mon 02/18/20 - 02/25/20
+
+1-Attended zoom session on 02/18/2020
+2-Fixed chameleon cloud issues
+3-Working On OpenAPI 3.0
+4-Watched <https://www.youtube.com/watch?v=6kwmW_p_Tig&t=3093s> video on Open API specification
+
 ## Week Mon 02/10/20 - 02/17/20
 
 1. Attended zoom session on 02/03/2020

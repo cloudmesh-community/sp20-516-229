@@ -90,3 +90,4 @@
 ## Important link
 
 1. [Connexion](https://github.com/zalando/connexion)
+1. <https://buildmedia.readthedocs.org/media/pdf/connexion/latest/connexion.pdf>

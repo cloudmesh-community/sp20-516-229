@@ -29,10 +29,10 @@ Oracle: Oracle is recycling waste heat base on the environment where its data ce
 
 The hot air from the IT equipment mixed with cold and dry outside air flows over a wet media where it picks up moisture and gets humidified as shown @fig:sp20-516-229-oracle-1 and @fig:sp20-516-229-oracle-2 [@oracle-award-winning-sp20-516-229].
 
-![Schematic of air-handling unit](images/sp20-516-229-oracle-1.png){#fig:sp20-516-229-oracle-1}
+![Schematic of air-handling unit[@oracle-award-winning-sp20-516-229]](images/sp20-516-229-oracle-1.png){#fig:sp20-516-229-oracle-1}
 
 
-![ Cooling energy use vs. ambient wet-bulb temperature](images/sp20-516-229-oracle-2.png){#fig:sp20-516-229-oracle-2}
+![ Cooling energy use vs. ambient wet-bulb temperature[@oracle-award-winning-sp20-516-229]](images/sp20-516-229-oracle-2.png){#fig:sp20-516-229-oracle-2}
 
 
 

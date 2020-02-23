@@ -1,5 +1,12 @@
 # Notebook Prateek Shaw sp20-516-229
 
+## Week Mon 02/18/20 - 02/25/20
+
+1. Attended zoom session on 02/18/2020
+1. Fixed chameleon cloud issues
+1. Working On OpenAPI 3.0
+1. Watched <https://www.youtube.com/watch?v=6kwmW_p_Tig&t=3093s> video on Open API specification
+
 ## Week Mon 02/10/20 - 02/17/20
 
 1. Attended zoom session on 02/03/2020
@@ -9,6 +16,10 @@
 1. Reading OpenStack with Chameleon Cloud
 1. Watched sshkey gen video
 1. Created VM in chameleoncloud 
+1. LibCloud : Python API to connect different cloud provider.[Appache LibCloud](http://libcloud.apache.org/)
+1. Virtual Directory
+1. Cloudmesh database is MangoDB.
+
 
 
 ## Week Mon 02/03/20 - 02/09/20
@@ -64,7 +75,19 @@
 1. Finished Bio
 1. Finished Poll on Zoom
 1. Installed Virtual Box with Ubuntu on Windod 10 Home
-1. Installed snap (package management system built by Canonica) https://snapcraft.io/docs/installing-snap-on-ubuntu
+1. Installed snap (package management system built by Canonica).[Canonica](https://snapcraft.io/docs/installing-snap-on-ubuntu)
 1. Installed Python3
 1. Created a Chameleon account
 
+
+
+## Need to learn
+
+1. What is cm hpc
+1. YAML files 
+1. CMD5 , docopts 
+
+## Important link
+
+1. [Connexion](https://github.com/zalando/connexion)
+1. <https://buildmedia.readthedocs.org/media/pdf/connexion/latest/connexion.pdf>

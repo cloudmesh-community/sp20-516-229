@@ -14,7 +14,7 @@ The main features of this platform are below.
 1. Infrastructure and Data science tools
 1. Collaborative and Project-Driven workspace
 
-This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229] .
+This platform is launched on 02-12-2020 [@oracle-cloud-data-science-platform-sp20-516-229].
 
 Below are steps which we need to follow to evaluate Oracle AI Data Science offering
 
@@ -24,7 +24,7 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
 
 Please remember 300$ is enough to evaluate Data Science service.
 
-![Oracle Cloud Free Tier](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
+![Oracle Cloud Free Tier [@oracle-cloud-data-science-platform-sp20-516-229]](images/1-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-1}
 
 ![Mind](images/2-oc-ft.png){#fig:sp20-516-229-oracle-free-tier-2}
 
@@ -166,5 +166,14 @@ Go to Data Science , Projects select Projects and Click on Create Notebook Sessi
 
 Because the notebook environment contains a comprehensive list of ML libraries, it can take several minutes to create a notebook session.
 
-![Notebook Sessions](images/oc-ds-projects-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Notebook Sessions Configuration](images/oc-ds-projects-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
+
+### Open NoteBook Session
+
+Now user can open notebook session and they can write model and train.
+
+
+![Notebook Sessions](images/oc-ds-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+
 

@@ -30,7 +30,7 @@ Please remember 300$ is enough to evaluate Data Science service.
 
 ### Understadning Data Science Platform Concepts 
 
-The first step is to undestand basic conectps of this platform.Please see [@fig:sp20-516-229-oracle-data-science-concepts] for more information
+The first step is to undestand basic concepts of this platform.Please see [@fig:sp20-516-229-oracle-data-science-concepts] for more information
 
 ![Mind](images/3-oc-ds-concepts.png){#fig:ssp20-516-229-oracle-data-science-concepts}
 
@@ -101,7 +101,7 @@ Go to Governance and Administraction , identity and click on Compartment
 
 ###### Create Virtual Cloud Network
 
-Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on Create Virtual Cloud Netwrok Button.
+Go to Core Infrastructure , Networking, Virtual Cloud Networks and click on Create Virtual Cloud Network Button.
 
 Select correct compartment.
 

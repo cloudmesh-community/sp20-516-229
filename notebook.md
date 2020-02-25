@@ -6,6 +6,7 @@
 1. Fixed chameleon cloud issues
 1. Working On OpenAPI 3.0
 1. Watched <https://www.youtube.com/watch?v=6kwmW_p_Tig&t=3093s> video on Open API specification
+1. Finished writing basic implementation for OpenAPI.
 
 ## Week Mon 02/10/20 - 02/17/20
 

@@ -36,28 +36,42 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 #### AI Apps for Human Resources
 
+<div class="smalltable">
+
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Human Capital Management  | $4.00 (employee/month)  | Included(Best Candidates and Stack-ranked applicants) |
 | Oracle Advanced HCM Controls Cloud  | $3.00 (employee/month)  | * GDPR security analysis for all users * Payroll and payment fraud detection * Prebuilt templates for core audit analysis * Security analysis for configuration and maintenance * Visual workbench Dashboards with analytics, alerts, and reporting) |
 
+</div>
+
 #### AI Apps for Marketing
+
+<div class="smalltable">
 
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Customer Experience, Commerce and Marketing  | $1,000.00 (user/month) and $5.00 unit/1,000 interactions | Next-best offer and product recommendations Coordinated open-time content Intuitive search experiences Optimized marketing orchestrations Connected audiences |
 
+</div>
+
 #### AI Apps for Sales
+
+<div class="smalltable">
 
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Customer Experience, Sales and Service  | $50.00 (user/month) | Next-best sales action Win probability scores |
 
+</div>
+
 #### AI Apps for Supply Chain and Manufacturing
+
+<div class="smalltable">
 
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligence Apps for Manufacturing Cloud  | $100.00 (user/month)  | Factory command center Insights (patterns and correlations analysis) Predictive analysis Genealogy and traceability analysis |
 | Oracle Adaptive Intelligence Apps Resource Capacity Cloud  | $950.00 additional resource capacity/month  |  |
 
-
+</div>

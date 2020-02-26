@@ -2,6 +2,8 @@
 
 :o2: bibtex missing
 
+:o2: use small tables i did it for the first one
+
 ## Oracle Cloud Introduction
 
 Oracle Cloud [:o2:] is a cloud computing service offered by Oracle Corporation providing servers, storage, network, applications and services through a global network of Oracle Corporation managed data centers. The company allows these services to be provisioned on demand over the Internet.In simple terms, cloud computing is renting instead of buying your IT. 
@@ -24,11 +26,13 @@ Oracle Adaptive Intelligent (AI) Apps for ERP is a suite of AI and data-driven f
 
 This include inbuild support for supplier categorization and interllignet payment discounts.
 
+<div class="smalltable">
 
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  | Included(Supplier categorization and   Intelligent payment discounts) |
 
+</div>
 
 #### AI Apps for Human Resources
 

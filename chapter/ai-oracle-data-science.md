@@ -78,14 +78,14 @@ information.
 
 #### Create User, Groups and assigning group to user
 
-![Configuration Steps](images/5-oc-ds-user-group.png){#fig:ssp20-516-229-oracle-data-science-configuration-c}
+![Configuration Steps](images/5-oc-ds-user-group.png){#fig:ssp20-516-229-oracle-data-science-configuration-c1}
 
 
 ##### User
 
 Go to Governance and Administraction, identity and click on User.
 
-![Users](images/6-ds-user.png){#fig:ssp20-516-229-oracle-data-science-configuration-c}
+![Users](images/6-ds-user.png){#fig:ssp20-516-229-oracle-data-science-configuration-c2}
 
 ##### Group
 

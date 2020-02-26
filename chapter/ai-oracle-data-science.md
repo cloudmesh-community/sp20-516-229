@@ -45,7 +45,7 @@ The first step is to undestand basic concepts of this platform.Please
 see [@fig:sp20-516-229-oracle-data-science-concepts] for more
 information
 
-![Mind](images/3-oc-ds-concepts.png){#fig:ssp20-516-229-oracle-data-science-concepts}
+![Mind](images/3-oc-ds-concepts.png){#fig:ssp20-516-229-oracle-data-science-concepts-a}
 
 #### Project
 
@@ -74,18 +74,18 @@ configurations.Please see
 [@fig:ssp20-516-229-oracle-data-science-configuration] for more
 information.
 
-![Configuration Steps](images/4-oc-ds-config.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Configuration Steps](images/4-oc-ds-config.png){#fig:ssp20-516-229-oracle-data-science-configuration-b}
 
 #### Create User, Groups and assigning group to user
 
-![Configuration Steps](images/5-oc-ds-user-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Configuration Steps](images/5-oc-ds-user-group.png){#fig:ssp20-516-229-oracle-data-science-configuration-c}
 
 
 ##### User
 
 Go to Governance and Administraction, identity and click on User.
 
-![Users](images/6-ds-user.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Users](images/6-ds-user.png){#fig:ssp20-516-229-oracle-data-science-configuration-c}
 
 ##### Group
 
@@ -93,13 +93,13 @@ Go to Governance and Administraction, identity and click on Group.
 
 229-prateek-ds-group
 
-![Groups](images/oc-ds-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Groups](images/oc-ds-group.png){#fig:ssp20-516-229-oracle-data-science-configuration-d}
 
 ##### Assign Group to User
 
 Go to Governance and Administraction, identity and click on User
 
-![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Assign Groups](images/8-ds-assign-group.png){#fig:ssp20-516-229-oracle-data-science-configuration-e}
 
 #### Create Compartments to Own Network and DS resources
 
@@ -115,7 +115,7 @@ resources to make it easier to manage and secure access to them
 Go to Governance and Administraction, identity and click on Compartment
 
 
-![Compartments](images/oc-ds-compartments.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Compartments](images/oc-ds-compartments.png){#fig:ssp20-516-229-oracle-data-science-configuration-f}
 
 
 229-prateek-ds-compartment
@@ -130,7 +130,7 @@ on Create Virtual Cloud Network Button.
 Select correct compartment.
 
 
-![Oracle Virtual Cloud Network](images/oc-ds-vcn.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Oracle Virtual Cloud Network](images/oc-ds-vcn.png){#fig:ssp20-516-229-oracle-data-science-configuration-g}
 
 
 ###### Create Subnets in VCN
@@ -142,7 +142,7 @@ see VCN.
 Click on Create subnet
 
 
-![VCN Subnet](images/oc-ds-vcn-subnet.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![VCN Subnet](images/oc-ds-vcn-subnet.png){#fig:ssp20-516-229-oracle-data-science-configuration-h}
 
 
 #### Create Policies to control Network and DS resources
@@ -156,7 +156,7 @@ Go to Governance and Administraction, identity and click on Policies
 allow group 229-prateek-ds-group to manage data-science-family in
 compartment 229-prateek-ds-compartment
 
-![VCN Subnet](images/oc-ds-policy-manage-access.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![VCN Subnet](images/oc-ds-policy-manage-access.png){#fig:ssp20-516-229-oracle-data-science-configuration-i}
 
 
 ##### Create policy to give users access to network resources
@@ -168,7 +168,7 @@ Go to Governance and Administraction, identity and click on Policies
 allow group 229-prateek-ds-group to use virtual-network-family in
 compartment 229-prateek-ds-compartment
 
-![VCN Subnet](images/oc-ds-policy-network-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![VCN Subnet](images/oc-ds-policy-network-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration-j}
 
 ##### Create policy to give data science service access to network resources
 
@@ -180,14 +180,14 @@ Go to Governance and Administraction, identity and click on Policies
 allow service datascience to use virtual-network-family in compartment
 229-prateek-ds-compartment
 
-![VCN Subnet](images/oc-ds-policy-datascience-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![VCN Subnet](images/oc-ds-policy-datascience-manage.png){#fig:ssp20-516-229-oracle-data-science-configuration-k}
 
 
 #### Create Projects
 
 Go to Data Science and Click on Projects
 
-![Projects](images/oc-ds-projects.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Projects](images/oc-ds-projects.png){#fig:ssp20-516-229-oracle-data-science-configuration-l}
 
 #### Creating Notebook Sessions 
 
@@ -197,7 +197,7 @@ Notebook Session
 Because the notebook environment contains a comprehensive list of ML
 libraries, it can take several minutes to create a notebook session.
 
-![Notebook Sessions Configuration](images/oc-ds-projects-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Notebook Sessions Configuration](images/oc-ds-projects-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration-m}
 
 
 ### Open NoteBook Session
@@ -205,6 +205,6 @@ libraries, it can take several minutes to create a notebook session.
 Now user can open notebook session and they can write model and train.
 
 
-![Notebook Sessions](images/oc-ds-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration}
+![Notebook Sessions](images/oc-ds-notebooks.png){#fig:ssp20-516-229-oracle-data-science-configuration-n}
 
 

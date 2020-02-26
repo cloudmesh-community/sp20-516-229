@@ -1,12 +1,9 @@
 # AI Services on Oracle: Prateek Shaw sp20-516-229
 
-:o2: bibtex missing
-
-:o2: use small tables i did it for the first one
 
 ## Oracle Cloud Introduction
 
-Oracle Cloud [:o2:] is a cloud computing service offered by Oracle Corporation providing servers, storage, network, applications and services through a global network of Oracle Corporation managed data centers. The company allows these services to be provisioned on demand over the Internet.In simple terms, cloud computing is renting instead of buying your IT. 
+Oracle Cloud [@www-oracle-cloud-intro-sp20-516-229] is a cloud computing service offered by Oracle Corporation providing servers, storage, network, applications and services through a global network of Oracle Corporation managed data centers. The company allows these services to be provisioned on demand over the Internet.In simple terms, cloud computing is renting instead of buying your IT. 
 
 Rather than investing heavily in databases, software, and equipment, companies are opting to access their compute power via the internet and pay for it as they use it.
 

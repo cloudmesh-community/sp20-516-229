@@ -103,9 +103,9 @@ I have not found cost details for this service in Oracle.
 
 #### Oracle Machine Learning
 
-Oracle has moved all the machine-related components into the database. This allows the organization to develop the product rapidly.This is best of the oracle machine learning.@[www-oc-ml-sp20-516-229]
+Oracle has moved all the machine-related components into the database. This allows the organization to develop the product rapidly.This is best of the oracle machine learning.[@www-oc-ml-sp20-516-229] As shown @fig:sp20-516-229-oc-ml-approch
 
 
-
+![Oracle Machine Learning Platform[www-oc-ml-approch-sp20-516-229]](images/sp229-oc-ml-approch.png){#fig:sp20-516-229-oc-ml-approch}
 
 

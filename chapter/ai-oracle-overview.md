@@ -21,7 +21,7 @@ Oracle offer in-build AI support in its Cloud based enterprise application.Below
 
 Oracle Adaptive Intelligent (AI) Apps [@www-oc-ai-fin-sp20-516-229] for ERP is a suite of AI and data-driven features that help procurement and finance teams improve financial performance, optimize cash flow, and increase agility across payables, receivables, procurement, and inventory. link needed
 
-This include inbuild support for supplier categorization and interllignet payment discounts.
+This include inbuild support for supplier categorization and interllignet payment discounts. Below is product more information.
 
 <div class="smalltable">
 
@@ -33,7 +33,7 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 #### AI Apps for Human Resources 
 
-In HCM apps is use for managing human resource.Oracle has inbuild addaptive intelligent inside this App which help customer to reduce time-to-hire, improve productivity and ensure compliance[@www-oc-ai-hr-sp20-516-229].
+In HCM apps is use for managing human resource.Oracle has inbuild addaptive intelligent inside this App which help customer to reduce time-to-hire, improve productivity and ensure compliance[@www-oc-ai-hr-sp20-516-229]. Below is product more informations. 
 
 <div class="smalltable">
 
@@ -46,7 +46,7 @@ In HCM apps is use for managing human resource.Oracle has inbuild addaptive inte
 
 #### AI Apps for Marketing  
 
-Marking [@www-oc-ai-marketing-sp20-516-229]
+Oracle has support for AI in B2B and B2C products [@www-oc-ai-marketing-sp20-516-229]. Below is product more information.
 
 <div class="smalltable">
 
@@ -58,7 +58,8 @@ Marking [@www-oc-ai-marketing-sp20-516-229]
 
 #### AI Apps for Sales 
 
-Sales [@www-oc-ai-sales-sp20-516-229]
+Oracle has incorporated intelligence inside the sales APP, using this customer can see Probability Scores, win the next big deal and they can focus account prioritization [@www-oc-ai-sales-sp20-516-229].Below is product more information.
+
 
 
 <div class="smalltable">
@@ -71,7 +72,7 @@ Sales [@www-oc-ai-sales-sp20-516-229]
 
 #### AI Apps for Supply Chain and Manufacturing 
 
-Chain [@www-oc-ai-supply-sp20-516-229]
+This help manufacturing and supply chain managers significantly improve production yield, product quality, lead times, equipment, and labor efficiencies. Below is product more information. [@www-oc-ai-supply-sp20-516-229]
 
 <div class="smalltable">
 

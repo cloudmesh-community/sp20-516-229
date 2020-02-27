@@ -33,7 +33,7 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 #### AI Apps for Human Resources 
 
-Check link [@www-oc-ai-hr-sp20-516-229]
+In HCM apps is use for managing human resource.Oracle has inbuild addaptive intelligent inside this App which help customer to reduce time-to-hire, improve productivity and ensure compliance[@www-oc-ai-hr-sp20-516-229].
 
 <div class="smalltable">
 

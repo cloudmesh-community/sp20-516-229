@@ -82,3 +82,30 @@ This help manufacturing and supply chain managers significantly improve producti
 | Oracle Adaptive Intelligence Apps Resource Capacity Cloud  | $950.00 additional resource capacity/month  |  |
 
 </div>
+
+
+### Data and AI Services to Develop Custom AI Applications
+
+
+#### Oracle Data Science
+
+Oracle Cloud Data Science Platform includes seven new services that deliver a comprehensive, end-to-end experience that accelerates and improves business decisions. [@www-oc-data-science-sp20-516-229] Below are services
+
+1. Oracle Cloud Infrastructure Data Science
+1. Oracle Machine Learning
+1. Oracle Cloud Infrastructure Data Catalog
+1. Oracle Big Data Service
+1. Oracle Cloud SQL
+1. Oracle Cloud Infrastructure Data Flow
+1. Oracle Cloud Infrastructure Virtual Machines for Data Science
+
+I have not found cost details for this service in Oracle.
+
+#### Oracle Machine Learning
+
+Oracle has moved all the machine-related components into the database. This allows the organization to develop the product rapidly.This is best of the oracle machine learning.@[www-oc-ml-sp20-516-229]
+
+
+
+
+

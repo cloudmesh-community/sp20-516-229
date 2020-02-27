@@ -31,7 +31,7 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 </div>
 
-#### AI Apps for Human Resources [@www-oc-ai-hr-sp20-516-229]
+#### AI Apps for Human Resources 
 
 Check link [@www-oc-ai-hr-sp20-516-229]
 
@@ -44,7 +44,9 @@ Check link [@www-oc-ai-hr-sp20-516-229]
 
 </div>
 
-#### AI Apps for Marketing  [@www-oc-ai-marketing-sp20-516-229]
+#### AI Apps for Marketing  
+
+Marking [@www-oc-ai-marketing-sp20-516-229]
 
 <div class="smalltable">
 

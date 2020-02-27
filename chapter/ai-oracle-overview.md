@@ -17,9 +17,9 @@ Oracle AI Services as shown @fig:sp20-516-229-oracle-cloud-ai
 
 Oracle offer in-build AI support in its Cloud based enterprise application.Below are list of application which support AI.
 
-#### AI Apps for Financials [@www-oc-ai-fin-sp20-516-229]
+#### AI Apps for Financials 
 
-Oracle Adaptive Intelligent (AI) Apps for ERP is a suite of AI and data-driven features that help procurement and finance teams improve financial performance, optimize cash flow, and increase agility across payables, receivables, procurement, and inventory. link needed
+Oracle Adaptive Intelligent (AI) Apps [@www-oc-ai-fin-sp20-516-229] for ERP is a suite of AI and data-driven features that help procurement and finance teams improve financial performance, optimize cash flow, and increase agility across payables, receivables, procurement, and inventory. link needed
 
 This include inbuild support for supplier categorization and interllignet payment discounts.
 
@@ -32,6 +32,8 @@ This include inbuild support for supplier categorization and interllignet paymen
 </div>
 
 #### AI Apps for Human Resources [@www-oc-ai-hr-sp20-516-229]
+
+Check link [@www-oc-ai-hr-sp20-516-229]
 
 <div class="smalltable">
 
@@ -52,7 +54,10 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 </div>
 
-#### AI Apps for Sales [@www-oc-ai-sales-sp20-516-229]
+#### AI Apps for Sales 
+
+Sales [@www-oc-ai-sales-sp20-516-229]
+
 
 <div class="smalltable">
 
@@ -62,7 +67,9 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 </div>
 
-#### AI Apps for Supply Chain and Manufacturing [@www-oc-ai-supply-sp20-516-229]
+#### AI Apps for Supply Chain and Manufacturing 
+
+Chain [@www-oc-ai-supply-sp20-516-229]
 
 <div class="smalltable">
 

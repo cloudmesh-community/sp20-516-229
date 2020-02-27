@@ -99,7 +99,7 @@ Oracle Cloud Data Science Platform includes seven new services that deliver a co
 1. Oracle Cloud Infrastructure Data Flow
 1. Oracle Cloud Infrastructure Virtual Machines for Data Science
 
-I have not found cost details for this service in Oracle.
+I have not found cost details for this service at Oracle.
 
 #### Oracle Machine Learning
 
@@ -108,4 +108,5 @@ Oracle has moved all the machine-related components into the database. This allo
 
 ![Oracle Machine Learning Platform[www-oc-ml-approch-sp20-516-229]](images/sp229-oc-ml-approch.png){#fig:sp20-516-229-oc-ml-approch}
 
+I have not found cost details for this service at Oracle.
 

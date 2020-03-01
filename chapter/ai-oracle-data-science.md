@@ -20,8 +20,7 @@ The main features of this platform are below.
 1. Infrastructure and Data science tools
 1. Collaborative and Project-Driven workspace
 
-This platform is launched on 02-12-2020
-[@oracle-cloud-data-science-platform-sp20-516-229].
+This platform is launched on 02-12-2020 [@www-oracle-cloud-data-science-platform-sp20-516-229].
 
 Below are steps which we need to follow to evaluate Oracle AI Data
 Science offering

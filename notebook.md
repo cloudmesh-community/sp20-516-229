@@ -3,6 +3,11 @@
 ## Week Mon 02/24/20 - 03/01/20
 
 1. Attended zoom session on 02/24/2020
+1. Read more about flask and connexion
+1. Merge Generator code
+1. Implemented CPU api locally and above to access restfull operation
+1. Installed httpip to access restful API from terminal.
+1. Update images size
 
 ## Week Mon 02/17/20 - 02/23/20
 

@@ -1,18 +1,16 @@
 # Notebook Prateek Shaw sp20-516-229
 
 
-## Week Mon 03/02/20 - 03/08/20
+## Week Mon 03/16/20 - 03/22/20
 
-1. Attended zoom session on 03/02/2020
+1. Attended zoom session on 03/16/2020
+
+
+## Week Mon 03/09/20 - 03/15/20
+
+1. Attended zoom session on 03/09/2020
 1. Writing test case for Generated yaml file
 1. Reading OpenAPI specification
-
-## Week Mon 03/02/20 - 03/08/20
-
-1. Attended zoom session on 03/02/2020
-1. Writing test case for Generated yaml file
-1. Reading OpenAPI specification
-
 
 
 ## Week Mon 03/02/20 - 03/08/20

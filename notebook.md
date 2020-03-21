@@ -6,6 +6,10 @@
 1. Attended zoom session on 03/16/2020
 1. Has zoom session with professor and he suggested to do below things
    1. finish the test case for cpu , i need to cover below test cases
+      1. server start
+      1. server url is accessibile 
+      1. validate response 
+      1. stop server 
       
 
 

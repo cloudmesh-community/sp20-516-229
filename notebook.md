@@ -129,10 +129,18 @@
 1. i need to learn path_expand
 1. hyperconvergence
 1. google now
-1. process containers/ control groups / lxc
+1. process containers/ control groups / lxc linux containers
 1. docker -docker swarm
 1. apache mesor and yarn aurora
 1. core os
+1. linpack
+1. cgroups
+1. nice command
+1. uname,cgroup,user,uts,ipc,net ,pid and mnt
+1. linux security modules , secomp , apparmor and selinux
+1. microservice architecture 
+
+
 
 
 ## Important link

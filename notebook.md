@@ -4,6 +4,9 @@
 ## Week Mon 03/16/20 - 03/22/20
 
 1. Attended zoom session on 03/16/2020
+1. Has zoom session with professor and he suggested to do below things
+   1. finish the test case for cpu , i need to cover below test cases
+      
 
 
 ## Week Mon 03/09/20 - 03/15/20

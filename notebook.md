@@ -129,6 +129,11 @@
 1. i need to learn path_expand
 1. hyperconvergence
 1. google now
+1. process containers/ control groups / lxc
+1. docker -docker swarm
+1. apache mesor and yarn aurora
+1. core os
+
 
 ## Important link
 

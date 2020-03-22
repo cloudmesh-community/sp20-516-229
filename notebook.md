@@ -10,7 +10,7 @@
    1. server url is accessibile
    1. validate response 
    1. stop server 
-1. cms has bug, it can not ran in background
+1. cms have a bug, it can not run in the background
 1. openapi3 has issue , module is showing error in pycharm
 
       

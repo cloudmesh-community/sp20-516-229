@@ -1,10 +1,18 @@
 # Notebook Prateek Shaw sp20-516-229
 
+## Week Mon 03/23/20 - 03/29/20
+
+1. Attended zoom session on 03/23/2020
+1. I had a zoom session with Jagadeesh Kandimalla and Jonathan Beckford to discussed implementing of the generator.
+1. Installed docker on Linux
+1. Finished test case for cpu Restful API
+1. Installed bookmanager locally
+
 
 ## Week Mon 03/16/20 - 03/22/20
 
 1. Attended zoom session on 03/16/2020
-1. Has zoom session with professor and he suggested to do below things
+1. Had zoom session with professor and he suggested to do below things
 1. finish the test case for cpu , i need to cover below test cases
    1. server start
    1. server url is accessibile

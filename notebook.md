@@ -12,6 +12,7 @@
 1. Fixed multi function issues and committed
 1. Wrote calculator function and generated yaml file
 1. Worked on docker and write docker script for openapi
+1. Learn docker and created account on docker hub
 
 ## Week Mon 03/23/20 - 03/29/20
 

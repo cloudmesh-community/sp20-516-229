@@ -1,5 +1,18 @@
 # Notebook Prateek Shaw sp20-516-229
 
+## Week Mon 04/06/20 - 04/11/20
+
+1. Attended zoom session on 04/06/2020
+1. working on generator api changes
+
+
+## Week Mon 03/30/20 - 04/05/20
+
+1. Attended zoom session on 03/30/2020
+1. Fixed multi function issues and committed
+1. Wrote calculator function and generated yaml file
+1. Worked on docker and write docker script for openapi
+
 ## Week Mon 03/23/20 - 03/29/20
 
 1. Attended zoom session on 03/23/2020
